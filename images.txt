@@ -14,3 +14,5 @@ registry.k8s.io/pause:3.10
 registry.k8s.io/etcd:3.5.15-0
 
 easysoft/zentao:20.7.1
+gitea/gitea:1.22.3
+
