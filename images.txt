@@ -18,3 +18,5 @@ gitea/gitea:1.22.3
 rancher/rancher:v2.7.10
 rancher/rancher:v2.9.3
 easzlab/kubeasz:3.6.3
+excalidraw/excalidraw:latest
+excalidraw/excalidraw-room:latest
