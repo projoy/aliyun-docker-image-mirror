@@ -21,4 +21,4 @@ easzlab/kubeasz:3.6.3
 excalidraw/excalidraw:latest
 excalidraw/excalidraw-room:latest
 alexta69/metube:latest
-
+dullage/flatnotes:latest
