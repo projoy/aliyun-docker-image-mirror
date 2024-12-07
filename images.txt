@@ -24,3 +24,4 @@ alexta69/metube:latest
 dullage/flatnotes:latest
 corentinth/it-tools:latest
 zadam/trilium
+b3log/siyuan
