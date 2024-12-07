@@ -25,3 +25,4 @@ dullage/flatnotes:latest
 corentinth/it-tools:latest
 zadam/trilium
 b3log/siyuan
+zddam/trilium:0.63-latest
