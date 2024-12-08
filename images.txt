@@ -28,3 +28,4 @@ b3log/siyuan
 zadam/trilium:0.63-latest
 
 mysql:8.0.40
+mysql:8.0.36
