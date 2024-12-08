@@ -26,3 +26,5 @@ corentinth/it-tools:latest
 #zadam/trilium
 b3log/siyuan
 zadam/trilium:0.63-latest
+
+mysql:8.0.40
