@@ -29,3 +29,5 @@ zadam/trilium:0.63-latest
 
 mysql:8.0.40
 mysql:8.0.36
+bitnami/postgresql:15.10.0
+sonarqube:9.9.8-community
